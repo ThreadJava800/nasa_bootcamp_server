@@ -1,5 +1,5 @@
 # Server for DeepSpace app
-This repository will contain site for our app (DeepSpace github can be found [here](https://github.com/ThreadJava800/nasa_bootcamp_server))
+This repository will contain site for our app (DeepSpace github can be found [here](https://github.com/BrightOS/NASA_Bootcamp))
 
 ## Run app
 1. [Download node.js](https://nodejs.org/en/download/)  
